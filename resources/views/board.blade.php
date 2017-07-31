@@ -56,7 +56,7 @@
     <div class="media">
       <div class="media-left">
         <figure class="image is-64x64">
-          <img src="Sanket_photo.jpg" alt="Image">
+          <img src="Sanket_photo.JPG" alt="Image">
         </figure>
       </div>
       <div class="media-content">
@@ -117,7 +117,7 @@
     <div class="media">
       <div class="media-left">
         <figure class="image is-64x64">
-          <img src="Tushar.jpg" alt="Image">
+          <img src="Tushar.JPG" alt="Image">
         </figure>
       </div>
       <div class="media-content">

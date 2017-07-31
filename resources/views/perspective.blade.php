@@ -35,7 +35,7 @@
 <figure >
     <img src="pimpalvati_payment.jpg">
     <img src="hiradi_work.jpg">
-    <img src="group_photo.jpg">
+    <img src="group_photo.JPG">
 </figure>
 
 </div>

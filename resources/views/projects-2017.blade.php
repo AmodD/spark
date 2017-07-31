@@ -23,7 +23,7 @@ With a prediction that the farm pond would be filled at least 25 times, groundwa
 expected to increase by 11,250,000 litre
 	</div>
 	<figure class="column">
-    		<img src="Pimpalvati_Farm_pond1.jpg">
+    		<img src="Pimpalvati_Farm_pond1.JPG">
     		<img src="hiradi_work.jpg">
 	</figure>
   </div>
@@ -45,7 +45,7 @@ expected to increase by 7,500,000 litre
 	</div>
 	<figure class="column" >
 	    <img src="Pimpalvati-10x10.jpg">
-	    <img src="Pimpalvati_Farmpond_2.jpg">
+	    <img src="Pimpalvati_Farmpond_2.JPG">
 	</figure>
   </div>
   </div>
