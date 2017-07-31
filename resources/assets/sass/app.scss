@@ -1,4 +1,21 @@
-@import "node_modules/bulma/bulma.sass";
+// 1. Import the initial variables
+@import "node_modules/bulma/sass/utilities/initial-variables";
+
+// 2. Set your own initial variables
+// add spark logo colour shades 
+$spark-orange: #FA7D00 ;
+$spark-blue: #00c9d2 ;
+$spark-grey: #4d4d4d ;
+// Add a serif family
+$family-serif: "Merriweather", "Georgia", serif ;
+
+// 3. Set the derived variables
+$primary: $spark-blue ;
+$danger: $spark-orange ;
+// Use the new serif family
+$family-primary: $family-serif ;
+
+@import "node_modules/bulma/bulma";
 // Fonts
 //@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
 

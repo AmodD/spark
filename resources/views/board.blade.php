@@ -5,19 +5,18 @@
 
 <div class="column has-text-centered ">
 	<article class="message">
-	<h1 class="title is-2">Board Of Trustees</h1>
-	
+	<h1 class="title is-2">TRUSTEES AND BOARD MEMBERS </h1>
 	</article>
 </div>
 
 <div class="columns ">
-<div class="column is-half is-offset-one-quarter ">
+<div class="column is-half">
 <div class="card">
   <div class="card-content">
     <div class="media">
       <div class="media-left">
         <figure class="image is-64x64">
-          <img src="http://bulma.io/images/placeholders/96x96.png" alt="Image">
+          <img src="Sonia.jpg" alt="Image">
         </figure>
       </div>
       <div class="media-content">
@@ -29,16 +28,14 @@
   </div>
 </div>
 </div>
-</div>
 
-<div class="columns">
-<div class="column is-half is-offset-one-quarter ">
+<div class="column is-half ">
 <div class="card">
   <div class="card-content">
     <div class="media">
       <div class="media-left">
         <figure class="image is-64x64">
-          <img src="http://bulma.io/images/placeholders/96x96.png" alt="Image">
+          <img src="Shailesh.jpg" alt="Image">
         </figure>
       </div>
       <div class="media-content">
@@ -53,13 +50,53 @@
 </div>
 
 <div class="columns ">
+<div class="column is-half">
+<div class="card">
+  <div class="card-content">
+    <div class="media">
+      <div class="media-left">
+        <figure class="image is-64x64">
+          <img src="Sanket_photo.jpg" alt="Image">
+        </figure>
+      </div>
+      <div class="media-content">
+        <p class="title is-4">Mr. Sanket Kharkar</p>
+	<p class="subtitle is-6">B.E. Computer</p>
+      </div>
+	<div>Member</div>
+    </div>
+  </div>
+</div>
+</div>
+
+<div class="column is-half ">
+<div class="card">
+  <div class="card-content">
+    <div class="media">
+      <div class="media-left">
+        <figure class="image is-64x64">
+          <img src="Ashish_photo.jpg" alt="Image">
+        </figure>
+      </div>
+      <div class="media-content">
+        <p class="title is-4">Mr. Ashish Dabadhe</p>
+	<p class="subtitle is-6">B.Com</p>
+      </div>
+	<div>Member</div>
+    </div>
+  </div>
+</div>
+</div>
+</div>
+
+<div class="columns ">
 <div class="column is-half is-offset-one-quarter ">
 <div class="card">
   <div class="card-content">
     <div class="media">
       <div class="media-left">
         <figure class="image is-64x64">
-          <img src="http://bulma.io/images/placeholders/96x96.png" alt="Image">
+          <img src="Aniruddha.png" alt="Image">
         </figure>
       </div>
       <div class="media-content">
@@ -80,7 +117,7 @@
     <div class="media">
       <div class="media-left">
         <figure class="image is-64x64">
-          <img src="http://bulma.io/images/placeholders/96x96.png" alt="Image">
+          <img src="Tushar.jpg" alt="Image">
         </figure>
       </div>
       <div class="media-content">
@@ -101,11 +138,11 @@
     <div class="media">
       <div class="media-left">
         <figure class="image is-64x64">
-          <img src="http://bulma.io/images/placeholders/96x96.png" alt="Image">
+          <img src="Makarand.jpg" alt="Image">
         </figure>
       </div>
       <div class="media-content">
-        <p class="title is-4">Mr. Makarand Gajanan.Dixit</p>
+        <p class="title is-4">Mr. Makarand Gajanan Dixit</p>
 	<p class="subtitle is-6">B.E Computer , M.A History</p>
       </div>
 	<div>Executive Director</div>

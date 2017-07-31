@@ -8,16 +8,16 @@
 <div class="column has-text-centered">
 	<article class="message">
 	<h1 class="title is-2">
-            About SPARK
+            PERSPECTIVE
         </h1>
 	</article>
 
 	<span class="tag is-primary is-medium">Igniting Humanity</span>
-	<span class="tag is-warning is-medium">Nurturing Sensitivity</span>
-	<span class="tag is-info is-medium">Creating Awareness</span>
-	<span class="tag is-dark is-medium">Uniting People</span>
-	<span class="tag is-danger is-medium">Reforming Society</span>
-	<span class="tag is-success is-medium">Transforming India</span>
+	<span class="tag is-danger is-medium">Nurturing Sensitivity</span>
+	<span class="tag is-primary is-medium">Creating Awareness</span>
+	<span class="tag is-danger is-medium">Uniting People</span>
+	<span class="tag is-primary is-medium">Reforming Society</span>
+	<span class="tag is-danger is-medium">Transforming India</span>
 <br>
 <br>
 	<div class=" content has-text-left">
@@ -30,5 +30,14 @@
 
 </div>
 
+<div class="column has-text-centered">
+
+<figure >
+    <img src="pimpalvati_payment.jpg">
+    <img src="hiradi_work.jpg">
+    <img src="group_photo.jpg">
+</figure>
+
+</div>
 
 @endsection

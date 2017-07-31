@@ -15,7 +15,22 @@ Route::get('/', function () {
     return view('main');
 });
 Route::get('/about', function () {
-    return view('about');
+    return view('perspective');
+});
+Route::get('/perspective', function () {
+    return view('perspective');
+});
+Route::get('/organization-details', function () {
+    return view('org-details');
+});
+Route::get('/media', function () {
+    return view('media');
+});
+Route::get('/projects', function () {
+    return view('projects-2017');
+});
+Route::get('/projects-2017', function () {
+    return view('projects-2017');
 });
 Route::get('/board', function () {
     return view('board');
