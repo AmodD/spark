@@ -9,9 +9,7 @@
 
 </section>
     <!-- Scripts -->
-  <script async type="text/javascript" src="https://dansup.github.io/bulma-templates/js/bulma.js"></script>
-
-<!--    <script src="{{ asset('js/app.js') }}"></script> -->
+   <script src="{{ asset('js/app.js') }}"></script> 
 <!-- <script src="{{ mix('js/app.js') }}"></script> -->
 
 
