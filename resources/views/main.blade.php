@@ -1,20 +1,21 @@
-
 @extends('layouts.index')
 
 @section('middlecontent')
 
-  <div class="hero-body" style=" background-image: linear-gradient(rgba(0, 0, 0, 0.49),rgba(0, 0, 0, 0.89)),url('index.jpg'); 
+<div class="hero-body is-hidden-mobile" style=" background-image: linear-gradient(rgba(0, 0, 0, 0.49),rgba(0, 0, 0, 0.89)),url('index.jpg'); 
 	background-size:100% 100%;
-	background-attachment:fixed;
-">
-    <div class="container has-text-centered">
-	<div >
-		  <img src="/logo.png">
+	background-attachment:fixed;">
+	<div class="container has-text-centered">
+		<div><img src="/logo.png"></div>
 	</div>
-      </div>
-    </div>
+</div>
 
 <div class="tile is-ancestor">
+  <div class="tile is-parent is-hidden-desktop">
+  </div>	
+  <div class="tile is-parent has-text-centered is-hidden-desktop">
+		  <img src="/logo.png">
+  </div>
   <div class="tile is-parent">
     <article class="tile is-child notification is-light">
   <h1 class="title has-text-centered"><span class="icon"><i class="fa fa-tasks"></i></span> Action</h1>

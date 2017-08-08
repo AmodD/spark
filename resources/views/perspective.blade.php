@@ -12,12 +12,14 @@
         </h1>
 	</article>
 
+	<div class="tags has-text-centered">
 	<span class="tag is-primary is-medium">Igniting Humanity</span>
 	<span class="tag is-danger is-medium">Nurturing Sensitivity</span>
 	<span class="tag is-primary is-medium">Creating Awareness</span>
 	<span class="tag is-danger is-medium">Uniting People</span>
 	<span class="tag is-primary is-medium">Reforming Society</span>
 	<span class="tag is-danger is-medium">Transforming India</span>
+	</div>
 <br>
 <br>
 	<div class=" content has-text-left">
