@@ -10,7 +10,7 @@
 
 <div class="columns">
 	<div class="column is-half is-offset-one-quarter ">
-		<member image="{{ asset('storage/members/Makarand.jpg') }}" 
+		<member image="{{ asset('storage/member/Makarand.jpg') }}" 
 			name="Mr. Makarand Gajanan Dixit"
 			qualification="B.E Computer , M.A History"
 			designation="Executive Director">
@@ -20,14 +20,14 @@
 
 <div class="columns ">
 	<div class="column is-half">
-		<member image="{{ asset('storage/members/Tushar.jpg') }}" 
+		<member image="{{ asset('storage/member/Tushar.jpg') }}" 
 			name="Mr. Tushar Paranjape"
 			qualification="B.E.E&TC , Film Writer Assistant Professor FTII"
 			designation="Trustee and Treasurer">
 		</member>
 	</div>
 	<div class="column is-half">
-		<member image="{{ asset('storage/members/Aniruddha.jpg') }}" 
+		<member image="{{ asset('storage/member/Aniruddha.jpg') }}" 
 			name="Mr. Aniruddha Ganesh Chandwankar"
 			qualification="B.Com"
 			designation="Hon. Trustee">
@@ -37,14 +37,14 @@
 
 <div class="columns">
 	<div class="column is-half">
-		<member image="{{ asset('storage/members/Sonia.jpg') }}" 
+		<member image="{{ asset('storage/member/Sonia.jpg') }}" 
 			name="Dr. Sonia Chaubal Tamhane"
 			qualification="BPTh (India) , MSc. Exercise Science(USA)"
 			designation="Hon. Trustee">
 		</member>
 	</div>
 	<div class="column is-half">
-		<member image="{{ asset('storage/members/Shailesh.jpg') }}" 
+		<member image="{{ asset('storage/member/Shailesh.jpg') }}" 
 			name="Mr. Shaileshkumar Jambotkar (IRS)"
 			qualification="B.E Mechanical"
 			designation="Hon. Trustee">
@@ -54,14 +54,14 @@
 
 <div class="columns">
 	<div class="column is-half">
-		<member image="{{ asset('storage/members/Sanket.jpg') }}" 
+		<member image="{{ asset('storage/member/Sanket.jpg') }}" 
 			name="Mr. Sanket Kharkar"
 			qualification="B.E. Computer"
 			designation="Member">
 		</member>
 	</div>
 	<div class="column is-half">
-		<member image="{{ asset('storage/members/Ashish.jpg') }}" 
+		<member image="{{ asset('storage/member/Ashish.jpg') }}" 
 			name="Mr. Ashish Dabhade"
 			qualification="B.Com"
 			designation="Member">
