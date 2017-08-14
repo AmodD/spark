@@ -30,7 +30,7 @@
       <div class="navbar-item has-dropdown is-hoverable">
 	<a class="navbar-link is-active">Donate</a>
 	<div id="moreDropdown" class="navbar-dropdown ">
-          <a class="navbar-item " href="http://bulma.io/extensions/">
+          <a class="navbar-item " href="">
             <div class="level is-mobile">
               <div class="level-left">
                 <div class="level-item">
