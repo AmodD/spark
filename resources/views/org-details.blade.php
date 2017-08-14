@@ -51,11 +51,12 @@ IFSC Code: IBKL0000457</td>
           </tbody>
         </table>
 
-      <p class="is-size-7">Logo designed by <strong>Kanupriya Sharma</strong>.</p>
+
         <figure>
           <img src="logo.png">
 	</figure>
 
+      <p class="is-size-7">Logo designed by <strong>Kanupriya Sharma</strong>.</p>
 </div>
 </div>
 @endsection
