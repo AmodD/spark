@@ -2,7 +2,7 @@
 
 @section('middlecontent')
 
-<div class="hero-body " style=" background-image: linear-gradient(rgba(0, 0, 0, 0.49),rgba(0, 0, 0, 0.89)),url('index.jpg'); 
+<div class="hero-body is-hidden-mobile " style=" background-image: linear-gradient(rgba(0, 0, 0, 0.49),rgba(0, 0, 0, 0.89)),url('index.jpg'); 
 	background-size:100% 100%;
 	background-attachment:fixed;">
 	<div class="container has-text-centered">
