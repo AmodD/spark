@@ -12,6 +12,7 @@
         </h1>
 	</article>
 
+	<marquee>
 	<div class="tags has-text-centered">
 	<span class="tag is-primary is-medium">Igniting Humanity</span>
 	<span class="tag is-danger is-medium">Nurturing Sensitivity</span>
@@ -20,6 +21,8 @@
 	<span class="tag is-primary is-medium">Reforming Society</span>
 	<span class="tag is-danger is-medium">Transforming India</span>
 	</div>
+	</marquee>	
+
 	<div class=" content has-text-left">
 		<p class="has-text-centered"><strong>SPARK</strong> – Society for People’s Action Reconciliation and Knowledge</p>
 		<p>SPARK is a non-profit, non-governmental organization working towards establishing a strong platform for mobilizing people, driving their strength and channelizing their efforts for achieving sustainable growth and transformation of society. We at SPARK are committed to principles of democracy, sustainability, social justice and equality. </p>
