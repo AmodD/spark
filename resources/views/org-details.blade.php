@@ -2,10 +2,11 @@
 
 @section('middlecontent')
 
+<div class="container">
       <div class="column has-text-centered">
 	<article class="message">
 	<h1 class="title is-2">
-            ORGANIZATION DETAILS
+            Organization Details
         </h1>
 	</article>
         <table class="table is-fullwidth">
@@ -53,5 +54,6 @@ IFSC Code: IBKL0000457</td>
         <figure>
           <img src="logo.png">
 	</figure>
+</div>
 </div>
 @endsection

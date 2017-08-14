@@ -1,7 +1,9 @@
 <div class="hero-head">
 <nav class="navbar">
 	<div class="navbar-brand">
-		<a class="navbar-item" href="/">SPARK</a>
+<a class="navbar-item" href="/">
+      <img src="logo.png">
+    </a>
 		<div class="navbar-burger burger" data-target="navMenuSpark">
                 	<span></span>
 	                <span></span>
@@ -22,7 +24,7 @@
 			        <a class="navbar-link is-active" href="/projects">Projects</a>
 			        <div class="navbar-dropdown ">
 				        <a class="navbar-item " href="/projects-2017">2017</a>
-          				<a class="navbar-item " href="/about">2016</a>
+          				<a class="navbar-item " href="#">2016</a>
 				</div>
 			</div>
 		</div>

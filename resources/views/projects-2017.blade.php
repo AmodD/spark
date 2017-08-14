@@ -7,24 +7,27 @@
 <div class="columns has-text-centered">
 	<article class="column message">
 	<h1 class="title is-2">
-            समृद्ध जीवन प्रकल्प -२०१७
+            Water Conservation Project
         </h1>
 	</article>
 </div>
 
-<article class="message is-large column is-10 is-offset-1 ">
-  <div class="message-header ">
-    <p>Farm pond 1 – Pimpalvati Village, Taluka Peth</p>
+
+<div class="container">
+
+<article class="message column">
+  <div class="message-header is-primary ">
+    <p class="is-size-5">Farm pond 1 – Pimpalvati Village, Taluka Peth , District Nasik</p>
   </div>
   <div class="message-body">
   <div class="columns">	
-	<div class="column is-one-third">  Length 15 meters, Breadth 15 meters, Depth 3 meters. <strong>Storage Capacity: 450,000 litre.</strong>
+	<div class="column is-one-third is-size-6">  Length 15 meters, Breadth 15 meters, Depth 3 meters. <strong>Storage Capacity: 450,000 litre.</strong>
 With a prediction that the farm pond would be filled at least 25 times, groundwater level is
 expected to increase by 11,250,000 litre
 	</div>
 	<figure class="column">
-    		<img src="Pimpalvati_Farm_pond1.JPG">
-    		<img src="hiradi_work.jpg">
+    		<img src="Pimpalwati-15x15.jpg">
+    		<img src="Pimpalvati_Farm_pond1_after.jpg">
 	</figure>
   </div>
   </div>
@@ -32,13 +35,13 @@ expected to increase by 11,250,000 litre
 
 
 
-<article class="message is-large column is-10 is-offset-1 ">
+<article class="message column">
   <div class="message-header">
-    <p>Farm pond 2 – Pimpalvati Village, Taluka Peth</p>
+    <p class="is-size-5">Farm pond 2 – Pimpalvati Village, Taluka Peth , District Nasik</p>
   </div>
   <div class="message-body">
   <div class="columns">
-	<div class="column is-one-third">
+	<div class="column is-one-third is-size-6">
 Length 10 meters, Breadth 10 meters, Depth 3 meters.<strong> Storage Capacity: 300,000 litre.</strong>
 With a prediction that the farm pond would be filled at least 25 times, groundwater level is
 expected to increase by 7,500,000 litre  
@@ -52,40 +55,44 @@ expected to increase by 7,500,000 litre
 </article>
 
 
-<div class="columns">
-<article class="message is-large  column is-half ">
-  <div class="message-header has-text-centered">
-    <p class="has-text-centered">Revival of a well – Pimpalvati Village, Taluka Peth</p>
+
+<article class="message  column">
+  <div class="message-header">
+    <p class="is-size-5">Farm pond 3 – Kotambi Village, Taluka Tryambak , District Nasik</p>
   </div>
   <div class="message-body">
-<div class="columns"><div class="column is-one-third">	 5 feet silt was removed off a well to increase its water storage capacity.</div>
-	<figure class="column" >
-<br>
+  <div class="columns">
+	<div class="column is-one-third is-size-6">
+<p>Length 10 meters, Breadth 10 meters, Depth 3 meters.<strong> Storage Capacity: 300,000 litre.</strong>
+With a prediction that the farm pond would be filled at least 25 times, groundwater level is
+expected to increase by 7,500,000 litre </p>
+	</div>
+	<figure class="column has-text-centered" >
+    <img src="Kotambi.jpg">
+	</figure>
+  </div>
+  </div>
+</article>
+
+
+<article class="message column">
+  <div class="message-header has-text-centered">
+    <p class="has-text-centered is-size-5">Revival of a well – Pimpalvati Village, Taluka Peth , District Nasik</p>
+  </div>
+  <div class="message-body">
+<div class="columns"><div class="column is-one-third is-size-6">5 feet silt was removed off a well to increase its water storage capacity.</div>
+	<figure class="column has-text-centered" >
 	    <img src="pimpalvati_well.jpg">
 	</figure>
 </div>
   </div>
 </article>
 
-<article class="message is-large  column is-half ">
-  <div class="message-header">
-    <p>Farm pond 3 – Kotambi Village, Taluka Tryambak</p>
-  </div>
-  <div class="message-body">
-Length 10 meters, Breadth 10 meters, Depth 3 meters.<strong> Storage Capacity: 300,000 litre.</strong>
-With a prediction that the farm pond would be filled at least 25 times, groundwater level is
-expected to increase by 7,500,000 litre 
-<figure>
-<br>
-    <img src="Pimpalwati-15x15.jpg">
-    <img src="Pimpalvati_group.jpg">
-</figure>
-</div>
-</article>
+
 </div>
 
-<div class="columns">
-	<div class="column is-half is-offset-one-quarter">
+<div class="container">
+	<div class="column">
 	<table class="table is-striped is-narrow">
 		<thead>
     			<tr>
@@ -153,16 +160,18 @@ during summers.
 responsibility towards the assets.
 				</td>
 			</tr>
+            		<tr>
+              			<td>
+				<span class="icon"><i class="fa fa-check"></i></span> 
+SPARK Foundation also plans to research, conduct workshops and create awareness in the above
+villages regarding water management, crop management and fair distribution of water.
+				</td>
+			</tr>
 	   	</tbody>
          </table> 
 	</div>
 </div>
 
-<div class="column">
-	<span class="icon"><i class="fa fa-quote-left"></i></span>
-<strong>SPARK Foundation also plans to research, conduct workshops and create awareness in the above
-villages regarding water management, crop management and fair distribution of water.</strong> 
-	<span class="icon"><i class="fa fa-quote-right"></i></span>
 </div>
 
 @endsection

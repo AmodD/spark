@@ -4,11 +4,11 @@
 
 @section('middlecontent')
 
-
+<div class="container">
 <div class="column has-text-centered">
 	<article class="message">
 	<h1 class="title is-2">
-            PERSPECTIVE
+            Perspective
         </h1>
 	</article>
 
@@ -20,10 +20,8 @@
 	<span class="tag is-primary is-medium">Reforming Society</span>
 	<span class="tag is-danger is-medium">Transforming India</span>
 	</div>
-<br>
-<br>
 	<div class=" content has-text-left">
-		<p><strong>SPARK</strong> – Society for People’s Action Reconciliation and Knowledge</p>
+		<p class="has-text-centered"><strong>SPARK</strong> – Society for People’s Action Reconciliation and Knowledge</p>
 		<p>SPARK is a non-profit, non-governmental organization working towards establishing a strong platform for mobilizing people, driving their strength and channelizing their efforts for achieving sustainable growth and transformation of society. We at SPARK are committed to principles of democracy, sustainability, social justice and equality. </p>
 <p>One of the objectives of SPARK is to create awareness and sensitivity about various issues in society, educate people about scientific and professional approaches of resolving critical issues in the society. We realize that the current approach of development has created a great divide between the cities and villages and we aim to bridge this divide by creating new opportunities. </p>
 <p>We believe in empowering people rather than aiding them. Our experience tells us that many of the issues we face persist because of the lack of dialogue between administration and the society. We want to establish that dialogue. We believe that our country can develop and come over the inequality issues if disadvantaged sections of society will also get an equal chance to raise their concerns and come forward.</p>
@@ -39,6 +37,8 @@
     <img src="hiradi_work.jpg">
     <img src="group_photo.JPG">
 </figure>
+
+</div>
 
 </div>
 

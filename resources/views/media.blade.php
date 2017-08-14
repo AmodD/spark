@@ -7,7 +7,7 @@
 <div class="column has-text-centered">
 	<article class="message">
 	<h1 class="title is-2">
-            MEDIA COVERAGE
+            Media Coverage
         </h1>
 	</article>
 
