@@ -6,6 +6,7 @@
     </a>
 		<div class="navbar-burger burger" data-target="navMenuSpark">
                 	<span></span>
+                	<span></span>
 	                <span></span>
 		</div>
 	</div>
