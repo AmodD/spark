@@ -9,7 +9,7 @@
 			      <p class="title is-4">{{ name }}</p>
 			      <p class="subtitle is-6">{{ qualification }}</p>
 		      </div>
-		      <div>{{ designation }}</div>
+		      <div class="media-right">{{ designation }}</div>
 		    </div>
 		  </div>
 		</div>

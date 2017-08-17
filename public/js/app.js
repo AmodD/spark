@@ -280,7 +280,9 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     staticClass: "title is-4"
   }, [_vm._v(_vm._s(_vm.name))]), _vm._v(" "), _c('p', {
     staticClass: "subtitle is-6"
-  }, [_vm._v(_vm._s(_vm.qualification))])]), _vm._v(" "), _c('div', [_vm._v(_vm._s(_vm.designation))])])])])
+  }, [_vm._v(_vm._s(_vm.qualification))])]), _vm._v(" "), _c('div', {
+    staticClass: "media-right"
+  }, [_vm._v(_vm._s(_vm.designation))])])])])
 },staticRenderFns: []}
 module.exports.render._withStripped = true
 if (false) {
