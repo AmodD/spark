@@ -25,7 +25,7 @@
 			        <a class="navbar-link is-active" href="/projects">Projects</a>
 			        <div class="navbar-dropdown ">
 				        <a class="navbar-item " href="/projects-2017">2017</a>
-          				<a class="navbar-item " href="#">2016</a>
+          				<a class="navbar-item " href="/projects-2016">2016</a>
 				</div>
 			</div>
       <div class="navbar-item has-dropdown is-hoverable">

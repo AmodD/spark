@@ -7,7 +7,7 @@
 <div class="columns has-text-centered">
 	<article class="column message">
 	<h1 class="title is-2">
-            Water Conservation Project
+            Water Conservation Project 2017
         </h1>
 	</article>
 </div>

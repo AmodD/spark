@@ -32,6 +32,9 @@ Route::get('/projects', function () {
 Route::get('/projects-2017', function () {
     return view('projects-2017');
 });
+Route::get('/projects-2016', function () {
+    return view('projects-2016');
+});
 Route::get('/board', function () {
     return view('board');
 });
