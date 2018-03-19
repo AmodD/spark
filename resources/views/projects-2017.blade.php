@@ -25,9 +25,9 @@
 With a prediction that the farm pond would be filled at least 25 times, groundwater level is
 expected to increase by 11,250,000 litre
 	</div>
-	<figure class="column">
+	<figure class="column has-text-centered">
     		<img src="Pimpalwati-15x15.jpg">
-    		<img src="Pimpalvati_Farm_Pond1_after.jpg">
+<!--    		<img src="Pimpalvati_Farm_Pond1_after.jpg"> -->
 	</figure>
   </div>
   </div>
@@ -46,9 +46,9 @@ Length 10 meters, Breadth 10 meters, Depth 3 meters.<strong> Storage Capacity: 3
 With a prediction that the farm pond would be filled at least 25 times, groundwater level is
 expected to increase by 7,500,000 litre  
 	</div>
-	<figure class="column" >
+	<figure class="column has-text-centered" >
 	    <img src="Pimpalvati-10x10.jpg">
-	    <img src="Pimpalvati_Farmpond_2.JPG">
+<!--	    <img src="Pimpalvati_Farmpond_2.JPG"> -->
 	</figure>
   </div>
   </div>
