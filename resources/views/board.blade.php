@@ -10,16 +10,13 @@
 <div id="app">
 
 <div class="columns">
-	<div class="column is-half is-offset-one-quarter ">
+	<div class="column is-half">
 		<member image="{{ asset('storage/member/Makarand.jpg') }}" 
 			name="Mr. Makarand Gajanan Dixit"
 			qualification="B.E Computer , M.A History"
 			designation="Executive Director">
 		</member>
 	</div>
-</div>
-
-<div class="columns ">
 	<div class="column is-half">
 		<member image="{{ asset('storage/member/Tushar.jpg') }}" 
 			name="Mr. Tushar Paranjape"
@@ -27,6 +24,10 @@
 			designation="Trustee and Treasurer">
 		</member>
 	</div>
+</div>
+
+<div class="columns ">
+
 	<div class="column is-half">
 		<member image="{{ asset('storage/member/Sonia.jpg') }}" 
 			name="Dr. Sonia Chaubal Tamhane"
@@ -34,20 +35,11 @@
 			designation="Hon. Trustee">
 		</member>
 	</div>
-</div>
 
-<div class="columns">
 	<div class="column is-half">
 		<member image="{{ asset('storage/member/Shailesh.jpg') }}" 
 			name="Mr. Shaileshkumar Jambotkar (IRS)"
 			qualification="B.E Mechanical"
-			designation="Hon. Trustee">
-		</member>
-	</div>
-	<div class="column is-half">
-		<member image="{{ asset('storage/member/Aniruddha.jpg') }}" 
-			name="Mr. Aniruddha Ganesh Chandwankar"
-			qualification="B.Com"
 			designation="Hon. Trustee">
 		</member>
 	</div>
