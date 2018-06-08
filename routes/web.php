@@ -29,6 +29,9 @@ Route::get('/media', function () {
 Route::get('/projects', function () {
     return view('projects-2017');
 });
+Route::get('/projects-2018', function () {
+    return view('projects-2018');
+});
 Route::get('/projects-2017', function () {
     return view('projects-2017');
 });

@@ -24,8 +24,30 @@
  			<div class="navbar-item has-dropdown is-hoverable">
 			        <a class="navbar-link is-active" href="/projects">Projects</a>
 			        <div class="navbar-dropdown ">
+				        <a class="navbar-item " href="/projects-2018">2018</a>
 				        <a class="navbar-item " href="/projects-2017">2017</a>
           				<a class="navbar-item " href="/projects-2016">2016</a>
+				</div>
+			</div>
+ 			<div class="navbar-item has-dropdown is-hoverable">
+			        <a class="navbar-link is-active" href="#">Our Associations</a>
+			        <div class="navbar-dropdown ">
+					<a class="navbar-item " href="http://www.pragatiabhiyan.org/" target="_blank">
+						<span class="has-text-centered">
+					    	<img src="pragati_abhiyan.png">
+						</span>
+					</a>
+          				<a class="navbar-item " href="https://vayamindia.wordpress.com/" target="_blank">‘वयम’ चळवळ </a>
+					<a class="navbar-item " href="http://www.acwadam.org/" target="_blank" >
+						<span class="has-text-centered">
+					    	<img src="acwadam.jpg"> ACWADAM
+						</span>
+					</a>
+					<a class="navbar-item " href="http://www.ctara.iitb.ac.in/" target="_blank" >
+						<span class="has-text-centered">
+					    	<img src="iitb.png"> CTARA-IIT(B)
+						</span>
+					</a>
 				</div>
 			</div>
       <div class="navbar-item has-dropdown is-hoverable">
