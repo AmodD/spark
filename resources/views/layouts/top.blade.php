@@ -77,22 +77,18 @@
 
 		</div>
 
-		<div class="navbar-end">
-			<div class="navbar-item">
-				<div class="field is-grouped">
-				<p class="control">
+		<div class="navbar-end is-mobile">
+			<div class="navbar-item is-mobile">
 				<span class="icon">
 				    <i class="fa fa-phone"></i>
 				</span> 
-				<span> +91 8605 041 800 </span>
-				</p>
-				<p class="control">	
+				+91 8605 041 800
+			</div>
+			<div class="navbar-item is-mobile">
 				<span class="icon">
 				    <i class="fa fa-envelope"></i>
 				</span> 
-				<span> sparkngo15@gmail.com </span>
-				</p>
-				</div>
+				 sparkngo15@gmail.com
 			</div>
 		</div>
 	</div>
