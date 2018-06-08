@@ -50,13 +50,11 @@
 					</a>
 				</div>
 			</div>
+
       <div class="navbar-item has-dropdown is-hoverable">
 	<a class="navbar-link is-active">Donate</a>
 	<div id="moreDropdown" class="navbar-dropdown ">
-          <a class="navbar-item " href="">
-            <div class="level is-mobile">
-              <div class="level-left">
-                <div class="level-item">
+          <a class="navbar-item is-mobile " href="#">
                   <p>
                     <strong class="has-text-primary">You can donate us in the following ways</strong>
 		    <br>
@@ -72,9 +70,6 @@
 		    <br><br>
 		    <small>After donating please send your full name and address via email so that appropriate receipt can be sent.</small>
                   </p>
-                </div>
-              </div>
-            </div>
           </a>
         </div>
       </div>
