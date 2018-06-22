@@ -4,16 +4,30 @@
 @section('middlecontent')
 
 
-<div class="columns has-text-centered">
+<div class="columns">
 	<article class="column message">
-	<h1 class="title is-2">
+	<h1 class="title is-2 has-text-centered">
             Water Conservation Project 2018
         </h1>
 	</article>
 </div>
 
-
 <div class="container">
+
+	<div class="content has-text-left">
+		<h3>Treadle Pumps</h3>
+		<p>Treadle pump is an innovation of CTARA-IIT(B) which is helpful for small scale irrigation.Treadle pump is operated manually.It can fetch water from 23ft depth and can deliver it up to 35ft height.SPARK donated 5 such pumps to farmers in village Pendharshet-Jawhar-Palghar and 2 pumps in Aamlon-Peth.Nashik</p>	
+		
+		<h3>Seeds</h3>
+		<p>Villagers at Aamlon are very enthusiastic and ready for experiments.SPARK handed over 3 different types of seeds of paddy ( जावयाची गुंडी,पुसा सुगंधी,झिनी ) which have provided good yield in Jawhar sector.SPARK also handed over kitchen-garden kits (seeds of vegetables having high nutrition value) to farmers in Aamlon  </p>
+
+	</div>
+
+	<figure class="column has-text-centered">
+    		<img src="Treadle_Pump_Pendharshet.jpg">
+    		<img src="Seeds_delivery.JPG">
+	</figure>
+
 
 <article class="message column">
   <div class="message-header is-primary ">
@@ -35,7 +49,18 @@
 
 <article class="message column">
   <div class="message-header is-primary ">
-    <p class="is-size-5">Work - 2 , Palghar , Village Name - Chinchawadi , De siltation of Cement Dam </p>
+    <p class="is-size-5">Work - 2 , Nashik , Village Name - Baradapada, Farm Pond Size - 15x15x2.5 , Capacity 350000 Liters</p>
+  </div>
+  <div class="message-body">
+	<figure class="column has-text-centered">
+    		<img src="baradapada.jpg">
+	</figure>
+  </div>
+</article>
+
+<article class="message column">
+  <div class="message-header is-primary ">
+    <p class="is-size-5">Work - 3 , Palghar , Village Name - Chinchawadi , De siltation of Cement Dam </p>
   </div>
   <div class="message-body">
 	<figure class="column has-text-centered">
@@ -46,7 +71,7 @@
 
 <article class="message column">
   <div class="message-header is-primary ">
-    <p class="is-size-5">Work - 3 , Buldhana , Village Name - Salwan , Farm Pond Size - 10x10x3 , Capacity 350000 Liters </p>
+    <p class="is-size-5">Work - 4 , Buldhana , Village Name - Salwan , Farm Pond Size - 10x10x3 , Capacity 350000 Liters </p>
   </div>
   <div class="message-body">
 	<figure class="column has-text-centered">
@@ -58,7 +83,7 @@
 
 <article class="message column">
   <div class="message-header is-primary ">
-    <p class="is-size-5">Work - 4 , Amravati , Village Name - Zatamziri </p>
+    <p class="is-size-5">Work - 5 , Amravati , Village Name - Zatamziri </p>
   </div>
   <div class="message-body">
 	<figure class="has-text-centered">

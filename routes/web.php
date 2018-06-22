@@ -44,6 +44,12 @@ Route::get('/board', function () {
 Route::get('/gallery', function () {
     return view('gallery');
 });
+Route::get('/puraskar', function () {
+    return view('puraskar-2016-17');
+});
+Route::get('/puraskar-2016-17', function () {
+    return view('puraskar-2016-17');
+});
 
 Auth::routes();
 
