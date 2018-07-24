@@ -54,3 +54,8 @@ Route::get('/puraskar-2016-17', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+Route::get('/getaudio/{fileName}', [
+    'as' => 'audio',
+    'uses' => 'HomeController@listenAudio'
+]);

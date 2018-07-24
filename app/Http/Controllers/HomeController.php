@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Http\Response;
 
 class HomeController extends Controller
 {
@@ -13,7 +14,7 @@ class HomeController extends Controller
      */
     public function __construct()
     {
-        $this->middleware('auth');
+//        $this->middleware('auth');
     }
 
     /**
@@ -25,4 +26,13 @@ class HomeController extends Controller
     {
         return view('home');
     }
+
+    function listenAudio($fileName)
+    {
+//        $file = Storage::disk('local')->get($fileName);
+        $file = asset("storage/".$fileName);
+        return (new Response($file, 200))
+              ->header('Content-Type', 'audio/mpeg');
+    }
+
 }
