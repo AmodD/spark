@@ -78,6 +78,7 @@
 			        <a class="navbar-link is-active" href="/puraskar">विश्वस्त पुरस्कार</a>
 			        <div class="navbar-dropdown ">
 				        <a class="navbar-item " href="/puraskar-2016-17">2016-17</a>
+				        <a class="navbar-item " href="/puraskar-2017-18">2017-18</a>
 				</div>
 			</div>
 
