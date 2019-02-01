@@ -3,14 +3,71 @@
 
 @section('middlecontent')
 
+<div class="section tabs">
+  <ul>
+    <li class="is-active"><a href="#">1. Project LWE (Learning While Enjoying)</a></li>
+    <li><a href="#water"> 2. Water Conservation Project 2018</a></li>
+  </ul>
+</div>
 
-<div class="columns">
+<div id="lwe">
+
+	<article class="column message">
+	<h1 class="title is-2 has-text-centered">
+            Project LWE (Learning While Enjoying)
+        </h1>
+	</article>
+
+<div class="container">
+
+	<div class="content has-text-left">
+		<h3>Area: District Bijapur – Chattisgadh</h3>
+		<p>LWE generally refers to Left Wing Extremism(Naxalism).Bijapur district of Chattisgadh is
+known to be severely affected by LWE activities resulting in frequent conflicts between
+security forces and LWE groups transforming entire area into battle field. This badly affects
+education of children living in such conflict zones. Also there are chances of children getting
+influenced by LWE propaganda.</p>
+		<p>SPARK is executing LWE (Learning While Enjoying) project with the help of District
+administration-Bijapur to improve education standards and help children to choose correct
+path for their own development. This project is being executed in 12 Porta-
+cabins(residential schools) namely
+gangalur,Cherpal,Bijapur,Chinnakodepal,Murkinar,Naimed,Kutaru,Farsegadh,Karkeli,Bedare
+,Keshkutul and Bhatwada.
+		</p>
+		<ul><strong>Activities</strong>
+			<li>Regular visits to Porta-cabins and having conversations with students. </li>
+			<li>Teaching art work such as Origami, Kirigami which will help students to improve
+geometrical and arithmetic skills.</li>
+			<li>Showing documentaries and short films regarding general
+knowledge,Geography,Science,History,World,development projects in India to
+improve general awareness of students.</li>
+			<li>Capacity building of students by organizing different competitions, exhibitions.</li>
+			<li>Counselling of students regarding cleanliness, sanitization and prevention of chronic
+diseases.</li>
+			<li>Performing water quality testing and provide suggestions to District administration for
+providing safe drinking water in Porta-cabins.</li>
+			<li>Conducting training of local teachers about new teaching techniques.</li>
+		</ul>
+
+	<figure class="column has-text-centered">
+		<figcaption>Students Learning Art Work</figcaption>
+    		<img src="students_learning_art_work_1.png">
+		<img src="students_learning_art_work_2.png">
+    		<img src="students_learning_art_work_3.png">
+		<img src="students_learning_art_work_4.png">
+	</figure>
+
+	</div>
+</div>
+
+</div>
+
+<div class="section" id="water">
 	<article class="column message">
 	<h1 class="title is-2 has-text-centered">
             Water Conservation Project 2018
         </h1>
 	</article>
-</div>
 
 <div class="container">
 
@@ -95,6 +152,7 @@
   </div>
 </article>
 
+</div>
 
 </div>
 
