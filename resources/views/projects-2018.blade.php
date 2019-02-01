@@ -57,6 +57,30 @@ providing safe drinking water in Porta-cabins.</li>
 		<img src="students_learning_art_work_4.png">
 	</figure>
 
+	<figure class="column has-text-centered">
+		<figcaption>Art Work Exhibition</figcaption>
+    		<img src="art_work_exhibition_1.png">
+		<img src="art_work_exhibition_2.png">
+	</figure>
+
+	<figure class="has-text-centered">
+		<figcaption><span>Documentary topics on the left & Students watching Documentary</figcaption>
+    		<img src="documentary_topics.png">
+		<img src="students_watching_documentary.png">
+	</figure>
+
+	<figure class="column has-text-centered">
+    		<img src="art_work_by_girls.png">
+		<img src="morning_assembly.png">
+    		<img src="water_testing.png">
+		<img src="winner_of_game_competition.png">
+	</figure>
+
+	<figure class="column has-text-centered">
+		<figcaption>Letter From District Collector</figcaption>
+    		<img src="letter_from_district_collector.png">
+	</figure>
+
 	</div>
 </div>
 
