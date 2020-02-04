@@ -10,7 +10,7 @@
 	                <span></span>
 		</div>
 	</div>
-	<div class="navbar-menu" id="navMenuSpark">
+	<div class="navbar-menu is-active" id="navMenuSpark">
 		<div class="navbar-start">
 			<div class="navbar-item has-dropdown is-hoverable">
 				<a class="navbar-link is-active" href="/about">About Us</a>
@@ -24,6 +24,7 @@
  			<div class="navbar-item has-dropdown is-hoverable">
 			        <a class="navbar-link is-active" href="/projects">Projects</a>
 			        <div class="navbar-dropdown ">
+				        <a class="navbar-item " href="/projects-2019">2019</a>
 				        <a class="navbar-item " href="/projects-2018">2018</a>
 				        <a class="navbar-item " href="/projects-2017">2017</a>
           				<a class="navbar-item " href="/projects-2016">2016</a>
