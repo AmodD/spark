@@ -33,9 +33,9 @@
  			<div class="navbar-item has-dropdown is-hoverable">
 			        <a class="navbar-link is-active" href="#">Our Associations</a>
 			        <div class="navbar-dropdown ">
-					<a class="navbar-item " href="http://www.pragatiabhiyan.org/" target="_blank">
+					<a class="navbar-item " href="https://baif.org.in/" target="_blank">
 						<span class="has-text-centered">
-					    	<img src="pragati_abhiyan.png">
+					    	<img src="Baif-logo.png"> BAIF
 						</span>
 					</a>
           				<a class="navbar-item " href="https://vayamindia.wordpress.com/" target="_blank">‘वयम’ चळवळ </a>
