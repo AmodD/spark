@@ -40,13 +40,13 @@
 </div>
 
 <div class="columns">
-	<div class="column is-half">
+	<!-- <div class="column is-half">
 		<member image="{{ asset('storage/member/Sanket.jpg') }}" 
 			name="Mr. Sanket Kharkar"
 			qualification="B.E. Computer"
 			designation="Member">
 		</member>
-	</div>
+	</div> -->
 	<div class="column is-half">
 		<member image="{{ asset('storage/member/Ashish.jpg') }}" 
 			name="Mr. Ashish Dabhade"
