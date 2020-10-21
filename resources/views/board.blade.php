@@ -2,62 +2,71 @@
 
 @section('middlecontent')
 
-<div class="container">
-<div class="column has-text-centered">
-	<article class="message"> <h1 class="title is-2">Trustees And Board Members</h1></article>
-</div>
+<main id="main">
+    <!-- ======= Trainers Section ======= -->
+    <section id="trainers" class="trainers">
+      <div class="container" data-aos="fade-up">
 
-<div id="app">
+        <div class="section-title">
+          <h2>About</h2>
+          <p>Trustees And Board Members</p>
+        </div>
 
-<div class="columns">
-	<div class="column is-half is-offset-one-quarter">
-		<member image="{{ asset('storage/member/Makarand.jpg') }}" 
-			name="Mr. Makarand Gajanan Dixit"
-			qualification="B.E Computer , M.A History"
-			designation="Executive Director">
-		</member>
-	</div>
-</div>
+		<div class="row" data-aos="zoom-in" data-aos-delay="100">
+		  <div class="col-lg-3 col-md-6 d-flex align-content-center">
+            <div class="member">
+              <img src="assets/media/members/Makarand.jpg" class="img-fluid" alt="">
+              <div class="member-content">
+                <h4>Mr. Makarand Gajanan Dixit</h4>
+                <span>Executive Director</span>
+                <p>
+                  B.E Computer , M.A History
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6 d-flex align-content-center">
+            <div class="member">
+              <img src="assets/media/members/Sonia.jpg" class="img-fluid" alt="">
+              <div class="member-content">
+                <h4>Dr. Sonia Chaubal Tamhane</h4>
+                <span>Hon. Trustee</span>
+                <p>
+                  BPTh (India) , MSc. Exercise Science(USA)
+                </p>
+              </div>
+            </div>
+          </div>
 
-<div class="columns ">
+          <div class="col-lg-3 col-md-6 d-flex align-content-center">
+            <div class="member">
+              <img src="assets/media/members/Tushar.jpg" class="img-fluid" alt="">
+              <div class="member-content">
+                <h4>Mr. Tushar Paranjape</h4>
+                <span>Trustee and Treasurer</span>
+                <p>
+                  B.E.E&TC , Film Writer, Assistant Professor FTII
+                </p>
+              </div>
+            </div>
+          </div>
 
-	<div class="column is-half">
-		<member image="{{ asset('storage/member/Sonia.jpg') }}" 
-			name="Dr. Sonia Chaubal Tamhane"
-			qualification="BPTh (India) , MSc. Exercise Science(USA)"
-			designation="Hon. Trustee">
-		</member>
-	</div>
-        
-        <div class="column is-half">
-		<member image="{{ asset('storage/member/Tushar.jpg') }}" 
-			name="Mr. Tushar Paranjape"
-			qualification="B.E.E&TC , Film Writer, Assistant Professor FTII"
-			designation="Trustee and Treasurer">
-		</member>
-	</div>
+		 <div class="col-lg-3 col-md-6 d-flex align-content-center">
+            <div class="member">
+              <img src="assets/media/members/Ashish.jpg" class="img-fluid" alt="">
+              <div class="member-content">
+                <h4>Mr. Ashish Dabhade</h4>
+                <span>Member</span>
+                <p>
+                  B.Com
+                </p>
+              </div>
+            </div>
+          </div>
 
-</div>
+        </div>
 
-<div class="columns">
-	<!-- <div class="column is-half">
-		<member image="{{ asset('storage/member/Sanket.jpg') }}" 
-			name="Mr. Sanket Kharkar"
-			qualification="B.E. Computer"
-			designation="Member">
-		</member>
-	</div> -->
-	<div class="column is-half">
-		<member image="{{ asset('storage/member/Ashish.jpg') }}" 
-			name="Mr. Ashish Dabhade"
-			qualification="B.Com"
-			designation="Member">
-		</member>
-	</div>
-</div>
-
-
-
-</div>
-</div>
+      </div>
+    </section><!-- End Trainers Section -->
+</main>
 @endsection
