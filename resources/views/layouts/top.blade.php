@@ -53,7 +53,7 @@
 		<li class="active drop-down"><a href="#">Donate</a>	
 			<ul>
 				<li>
-					<a class="navbar-item is-mobile " href="#">
+					<a class="navbar-item is-mobile" href="#">
                   	<p>
                     <strong class="has-text-primary">You can donate us in the following ways</strong>
 		    		<br>
@@ -67,7 +67,9 @@
 	            	<br>
 		    		<strong>IFSC Code : </strong> IBKL0000457
 		    		<br><br>
-		    		<small>After donating please send your full name and address via email so that appropriate receipt can be sent.</small>
+					<small>After donating please send your full name and address via email so that appropriate receipt can be sent.</small>
+					<br/>
+					<small>All the donations qualify for Tax Exemption under section 80G of the Income Tax act 1961.</small>
                   	</p>
           			</a>
 				</li>

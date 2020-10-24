@@ -14,6 +14,17 @@
 <!-- ======= About Us Section ======= -->
 <section id="why-us" class="why-us">
   <div class="container" data-aos="fade-up">
+    <marquee>
+      <div class="tags has-text-centered">
+      <span class="tag is-primary is-medium">Igniting Humanity</span>
+      <span class="tag is-danger is-medium">Nurturing Sensitivity</span>
+      <span class="tag is-primary is-medium">Creating Awareness</span>
+      <span class="tag is-danger is-medium">Uniting People</span>
+      <span class="tag is-primary is-medium">Reforming Society</span>
+      <span class="tag is-danger is-medium">Transforming India</span>
+      </div>
+    </marquee>
+
       <div class="section-title">
         <p>About Us</p>
       </div>
@@ -26,6 +37,15 @@
             mobilizing people, driving their strength and channelizing their efforts for achieving sustainable growth and 
             transformation of society. We at SPARK are committed to principles of democracy, sustainability, social justice and equality.
           </p>
+        </div>
+      </div>
+
+      <div class="row center" data-aos="zoom-in" data-aos-delay="100">
+        <div class="col-lg-12 col-md-6 align-content-center">
+           <video width="540" controls>
+            <source src="assets/media/Spark-Intro.mp4" type="video/mp4">
+            Your browser does not support HTML5 video.
+          </video>
         </div>
       </div>
 
