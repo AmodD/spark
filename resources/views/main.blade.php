@@ -2,53 +2,84 @@
 
 @section('middlecontent')
 
-<div class="hero-body is-hidden-mobile " style=" background-image: linear-gradient(rgba(0, 0, 0, 0.49),rgba(0, 0, 0, 0.89)),url('index.jpg'); 
-	background-size:100% 100%;
-	background-attachment:fixed;">
-	<div class="container has-text-centered">
-		<div><img src="/logo.png"></div>
-	</div>
-</div>
-
-<div class="container">
-<div class="tile is-ancestor">
-  <div class="tile is-parent is-hidden-desktop">
-  </div>	
-  <div class="tile is-parent has-text-centered is-hidden-desktop">
-		  <img src="/logo.png">
+<!-- ======= Hero Section ======= -->
+<section id="hero" class="d-flex justify-content-center align-items-center">
+  <div class="container position-relative" data-aos="zoom-in" data-aos-delay="100">
+    <div><img src="/logo.png"></div>
+    <h2>Society for People’s Action Reconciliation and Knowledge</h2>
+    <a href="/perspective" class="btn-get-started">Know more</a>
   </div>
-  <div class="tile is-parent">
-    <article class="tile is-child notification is-light">
-  <h1 class="title has-text-centered"><span class="icon"><i class="fa fa-tasks"></i></span> Action</h1>
-   <p>Active participation to solve various social issues using democratic, non-violent and constitutional means</p> 
-   </article>
+</section><!-- End Hero -->
+
+<!-- ======= About Us Section ======= -->
+<section id="why-us" class="why-us">
+  <div class="container" data-aos="fade-up">
+    <marquee>
+      <div class="tags has-text-centered">
+      <span class="tag is-primary is-medium">Igniting Humanity</span>
+      <span class="tag is-danger is-medium">Nurturing Sensitivity</span>
+      <span class="tag is-primary is-medium">Creating Awareness</span>
+      <span class="tag is-danger is-medium">Uniting People</span>
+      <span class="tag is-primary is-medium">Reforming Society</span>
+      <span class="tag is-danger is-medium">Transforming India</span>
+      </div>
+    </marquee>
+
+      <div class="section-title">
+        <p>About Us</p>
+      </div>
+      
+      <div class="row">
+        <div class="col-lg-12 pt-4 pt-lg-0 order-2 order-lg-1 content">
+          <h3>Society for People’s Action Reconciliation and Knowledge</h3>
+          <p class="font-italic">
+            SPARK is a non-profit, non-governmental organization working towards establishing a strong platform for 
+            mobilizing people, driving their strength and channelizing their efforts for achieving sustainable growth and 
+            transformation of society. We at SPARK are committed to principles of democracy, sustainability, social justice and equality.
+          </p>
+        </div>
+      </div>
+
+      <div class="row center" data-aos="zoom-in" data-aos-delay="100">
+        <div class="col-lg-12 col-md-6 align-content-center">
+           <video width="540" controls>
+            <source src="assets/media/Spark-Intro.mp4" type="video/mp4">
+            Your browser does not support HTML5 video.
+          </video>
+        </div>
+      </div>
+
+      <div class="col-lg-12 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+        <div class="icon-boxes d-flex flex-column justify-content-center">
+          <div class="row">
+            <div class="col-xl-4 d-flex align-items-stretch">
+              <div class="icon-box mt-4 mt-xl-0">
+                <i class="bx bx-receipt"></i>
+                <h4>Action</h4>
+                <p>Active participation to solve various social issues using democratic, non-violent and constitutional means</p>
+              </div>
+            </div>
+            <div class="col-xl-4 d-flex align-items-stretch">
+              <div class="icon-box mt-4 mt-xl-0">
+                <i class="bx bx-donate-heart"></i>
+                <h4>Reconciliation</h4>
+                <p>Become a constructive mediator between the Govt and people. Help beneficial Govt schemes 
+                  reach people and convey people’s problems to the corresponding Govt authorities.</p>
+              </div>
+            </div>
+            <div class="col-xl-4 d-flex align-items-stretch">
+              <div class="icon-box mt-4 mt-xl-0">
+                <i class="bx bx-book"></i>
+                <h4>Knowledge</h4>
+                <p>Study, analyze and research about social issues in various domains and support people who work towards the same. 
+                  Using the knowledge thus acquired, guide deprived people to find sustainable solutions to their problems.</p>
+              </div>
+            </div>
+          </div>
+        </div><!-- End .content-->
+      </div>
     </div>
-  <div class="tile is-parent">
-    <article class="tile is-child notification is-light">
-  <h1 class="title has-text-centered"><span class="icon"><i class="fa fa-refresh"></i></span> Reconciliation</h1>
-    <p>Become a constructive mediator between the Govt and people. Help beneficial Govt schemes reach people and convey people’s problems to the corresponding Govt authorities.</p>
-    </article>
-    </div>
-  <div class="tile is-parent">
-    <article class="tile is-child notification is-light">
-  <h1 class="title has-text-centered"><span class="icon"><i class="fa fa-book"></i></span> Knowledge</h1>
-   <p>Study, analyze and research about social issues in various domains and support people who work towards the same. Using the knowledge thus acquired, guide deprived people to find sustainable solutions to their problems.</p> 
-   </article>
   </div>
-</div>
-</div>
-
-<footer class="footer">
-  <div class="container">
-    <div class="content has-text-centered">
-
-<a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
-<br />
-<span class="is-size-7">This work is licensed under a <a target="_blank" rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
-</span>
-    </div>
-  </div>
-</footer>
-
+</section><!-- End Why Us Section -->
 
 @endsection
