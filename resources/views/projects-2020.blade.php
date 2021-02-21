@@ -162,7 +162,7 @@
       </div>
       <div class="message-body">
         <figure class="has-text-centered">
-          <p>ISince the villagers were involved in every step of constructing a CNB they are now well aware of designing, implementation and quality checks of such works. 
+          <p>Since the villagers were involved in every step of constructing a CNB they are now well aware of designing, implementation and quality checks of such works. 
           Villagers will be able to monitor such works in future and ask the authorities to take corrective measures in case of irregularities.</p>
           <div class="row padding-small">
             <div class="col-lg-6 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
