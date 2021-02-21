@@ -30,6 +30,7 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Projects</h4>
             <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="/projects-2020">2020</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="/projects-2019">2019</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="/projects-2018">2018</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="/projects-2017">2017</a></li>
