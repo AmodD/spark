@@ -27,19 +27,6 @@
           </div>
           <div class="col-lg-3 col-md-6 d-flex align-content-center">
             <div class="member">
-              <img src="assets/media/members/Sonia.jpg" class="img-fluid" alt="">
-              <div class="member-content">
-                <h4>Dr. Sonia Chaubal Tamhane</h4>
-                <span>Hon. Trustee</span>
-                <p>
-                  BPTh (India) , MSc. Exercise Science(USA)
-                </p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 d-flex align-content-center">
-            <div class="member">
               <img src="assets/media/members/Tushar.jpg" class="img-fluid" alt="">
               <div class="member-content">
                 <h4>Mr. Tushar Paranjape</h4>
@@ -51,7 +38,7 @@
             </div>
           </div>
 
-		 <div class="col-lg-3 col-md-6 d-flex align-content-center">
+		      <div class="col-lg-3 col-md-6 d-flex align-content-center">
             <div class="member">
               <img src="assets/media/members/Ashish.jpg" class="img-fluid" alt="">
               <div class="member-content">
