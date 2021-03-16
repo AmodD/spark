@@ -64,6 +64,19 @@
     <div class="container d-md-flex py-4">
       <div class="mr-md-auto text-center text-md-left">
         <div class="credits">
+          Privacy Policy: 
+          <small>
+            We don't collect or save, directly or indirectly any information of the user visiting this website under any format. We don't disclose user's information to any external agency in any format.Please redirect your queries to sparkngo15@gmail.com
+            <br> <br>
+            Terms and Conditions policy: All the information present on this website is the soul property of SPARK Foundation. Use of this information in any format will require written consent from Trustees of SPARK Foundation.Unauthorized use of the information available on this website may lead to legal consequences.
+          </small>
+        </div>
+      </div>
+    </div>
+
+    <div class="container d-md-flex py-4">
+      <div class="mr-md-auto text-center text-md-left">
+        <div class="credits">
           <!-- All the links in the footer should remain intact. -->
           <!-- You can delete the links only if you purchased the pro version. -->
           <!-- Licensing information: https://bootstrapmade.com/license/ -->
