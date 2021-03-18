@@ -26,24 +26,24 @@
 		<li class="active drop-down"><a href="#">Our Associations</a>
 			<ul>
 				<li>
-					<a class="navbar-item " href="https://baif.org.in/" target="_blank">
+					<a class="navbar-item " href="#">
 						<span class="has-text-centered">
 					    	<img src="assets/media/Baif-logo.png"> BAIF
 						</span>
 					</a>
 				</li>
 				<li>
-					<a class="navbar-item " href="https://vayamindia.wordpress.com/" target="_blank">‘वयम’ चळवळ </a>
+					<a class="navbar-item " href="#">‘वयम’ चळवळ </a>
 				</li>
 				<li>
-					<a class="navbar-item " href="http://www.acwadam.org/" target="_blank" >
+					<a class="navbar-item " href="#" >
 						<span class="has-text-centered">
 					    	<img src="assets/media/acwadam.jpg"> ACWADAM
 						</span>
 					</a>
 				</li>
 				<li>
-					<a class="navbar-item " href="http://www.ctara.iitb.ac.in/" target="_blank" >
+					<a class="navbar-item " href="#">
 						<span class="has-text-centered">
 					    	<img src="assets/media/iitb.png"> CTARA-IIT(B)
 						</span>

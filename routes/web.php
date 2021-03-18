@@ -60,6 +60,17 @@ Route::get('/puraskar-2017-18', function () {
     return view('puraskar-2017-18');
 });
 
+Route::get('/privacy', function () {
+    return view('privacy');
+});
+Route::get('/refund', function () {
+    return view('refund');
+});
+Route::get('/terms', function () {
+    return view('terms');
+});
+
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
