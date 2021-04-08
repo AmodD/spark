@@ -41,7 +41,11 @@
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Donation Information</h4>
               <p>
-              <strong class="has-text-primary">You can donate us in the following ways</strong>
+              <a target="_blank" class="btn btn-primary" href="https://rzp.io/l/8rQcC9A74P">
+                Donate with Razorpay
+              </a>
+              <br/> <br/>
+              <strong class="has-text-primary">Or, You can donate us in the following ways</strong>
               <br>
               <small>1. Draw Cheque/Demand Draft on the name SPARK Foundation and send it to registered address.</small>
               <br>

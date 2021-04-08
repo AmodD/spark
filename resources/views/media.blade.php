@@ -31,8 +31,8 @@
             <div class="card">
               <div class="card-img">
                <a href="http://www.loksatta.com/vishesha-news/private-rojgar-hami-yojana-1242519/" target="_blank">
-					<img src="assets/media/loksatta.png" class="img-fluid" alt="">
-				</a>
+                  <img src="assets/media/loksatta.png" class="img-fluid" alt="">
+               </a>
               </div>
               <div class="card-body">
                 <h5 class="card-title"><a href="http://www.loksatta.com/vishesha-news/private-rojgar-hami-yojana-1242519/" target="_blank">रोजगार हमीचा ‘प्रायव्हेट’प्रयत्न</a></h5>

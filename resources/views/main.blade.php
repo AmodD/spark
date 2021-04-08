@@ -8,6 +8,9 @@
     <div><img src="/logo.png"></div>
     <h2>Society for People’s Action Reconciliation and Knowledge</h2>
     <a href="/perspective" class="btn-get-started">Know more</a>
+    <a target="_blank" class="btn-get-started" href="https://rzp.io/l/8rQcC9A74P">
+      Donate with Razorpay
+    </a>
   </div>
 </section><!-- End Hero -->
 

@@ -54,9 +54,14 @@
 		<li class="active drop-down"><a href="#">Donate</a>	
 			<ul>
 				<li>
+					<a target="_blank" class="btn-get-started" href="https://rzp.io/l/8rQcC9A74P">
+						Donate with Razorpay
+					</a>
+				</li>
+				<li>
 					<a class="navbar-item is-mobile" href="#">
                   	<p>
-                    <strong class="has-text-primary">You can donate us in the following ways</strong>
+                    <strong class="has-text-primary">Or, You can donate us in the following ways</strong>
 		    		<br>
                     <small>1. Draw Cheque/Demand Draft on the name SPARK Foundation and send it to registered address.</small>
 		    		<br>
