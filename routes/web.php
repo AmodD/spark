@@ -44,6 +44,9 @@ Route::get('/projects-2016', function () {
 Route::get('/projects-2020', function () {
     return view('projects-2020');
 });
+Route::get('/projects-2021', function () {
+    return view('projects-2021');
+});
 Route::get('/board', function () {
     return view('board');
 });
