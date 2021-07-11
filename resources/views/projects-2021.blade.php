@@ -153,7 +153,7 @@
         <div class="row padding-small">
           <div class="col-lg-6 col-md-12 d-flex align-items-stretch mt-4 mt-md-0">
             <div class="course-item">
-                <img src="assets/media/projects/2021/Spring Cordon_1.jpg" class="img-fluid" alt="...">
+                <img src="assets/media/projects/2021/Spring Cordon_2.jpg" class="img-fluid" alt="...">
             </div>
           </div>
           <div class="col-lg-6 col-md-12 d-flex align-items-stretch mt-4 mt-md-0">
@@ -165,7 +165,7 @@
         <div class="row padding-small">
           <div class="col-lg-12 col-md-12 d-flex align-items-stretch mt-4 mt-md-0">
             <div class="course-item">
-                <img src="assets/media/projects/2021/Spring Cordon_2.jpg" class="img-fluid" alt="...">
+                <img src="assets/media/projects/2021/Spring Cordon_1.jpg" class="img-fluid" alt="...">
             </div>
           </div>
         </div>
