@@ -16,6 +16,7 @@
 		</li>
 		<li class="active drop-down"><a href="/projects">Projects</a>
 			<ul>
+				<li><a href="/projects-2021">2021</a></li>
 				<li><a href="/projects-2020">2020</a></li>
 				<li><a href="/projects-2019">2019</a></li>
 				<li><a href="/projects-2018">2018</a></li>
